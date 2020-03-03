@@ -5,7 +5,7 @@ files:
     encoding: utf-8
 
 datapackages:
-  - 'datapackage.json'
+  - 'sivudata.json'
 
 settings:
   checks:
