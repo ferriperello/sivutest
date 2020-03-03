@@ -1,9 +1,3 @@
-files:
-  - source: sivudata.json
-    schema: schema.json
-    format: json
-    encoding: utf-8
-
 datapackages:
   - 'sivudata.json'
 
